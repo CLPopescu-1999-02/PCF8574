@@ -1,0 +1,3 @@
+<map id="pcf8574.c" name="pcf8574.c">
+<area shape="rect" id="node2" href="$pcf8574_8h.html" title="In order to use this you have to create a PCF8574_HandleTypeDef variable (e.g. &quot;pcf&quot;). Then you will set the the address based on the configuration of your chip (pins A0, A1, A2) ( pcf.PCF_I2C_ADDRESS ) (0 to 7), timeout ( pcf.PCF_I2C_TIMEOUT ) (e.g. 1000 (=1 sec)), I2C instance to use ( pcf.i2c.Instance ) (e.g. I2C1 or I2C2 ...), speed of the communication ( pcf.i2c.Init.ClockSpeed ) (e.g. 100 000 (=100kHz)),. " alt="" coords="25,80,103,107"/>
+</map>
