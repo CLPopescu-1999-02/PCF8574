@@ -15,7 +15,11 @@
  * Then you will set the the address based on the configuration of your chip (pins A0, A1, A2) ( pcf.PCF_I2C_ADDRESS ) (0 to 7),
  * timeout ( pcf.PCF_I2C_TIMEOUT ) (e.g. 1000 (=1 sec)),
  * I2C instance to use ( pcf.i2c.Instance ) (e.g. I2C1 or I2C2 ...),
- * speed of the communication ( pcf.i2c.Init.ClockSpeed ) (e.g. 100 000 (=100kHz)),
+ * speed of the communication ( pcf.i2c.Init.ClockSpeed ) (e.g. 100 000 (=100kHz)).
+ *
+ * Example:
+ * example.c
+ * example_msp.c
  */
 
 /**
